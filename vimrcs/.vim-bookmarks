@@ -1,0 +1,3 @@
+let l:bm_file_version = 1
+let l:bm_sessions = {'default': {'/home/khali-linux/NERD_tree_1': [{'sign_idx': 9500, 'line_nr': 1, 'content': '/home/khali-linux/'},],}}
+let l:bm_current_session = 'default'
